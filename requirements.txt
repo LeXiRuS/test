@@ -9,4 +9,4 @@ coverage
 pytest-cov
 virtualenv
 Flask
-CSRFProtect
+Flask-WTF
