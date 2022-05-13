@@ -16,7 +16,7 @@ def hello():
 
 @app.route('/hello/<username>')
 def hello_user(username):
-    return 'Salut %s! :) \n' % username
+    return 'Salut salut %s! :) \n' % username
 
 @app.route("/contact")
 def page_contact():
